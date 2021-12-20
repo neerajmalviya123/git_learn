@@ -1,3 +1,3 @@
 a=45
 b=5
-print(a+b)
+print('sum to two number',a+b)
